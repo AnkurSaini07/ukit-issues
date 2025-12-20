@@ -75,7 +75,7 @@ ukit is available for free with essential features. Upgrade to **Pro** for advan
 | :--- | :--- | :--- |
 | **Color** | Hex, RGB | **+ HSL, OKLCH** |
 | **Text Analysis** | Word/Char Count, Reading Time, Flesch Ease | **+ Flesch-Kincaid, Gunning Fog, SMOG, Coleman-Liau** |
-| **Date & Time** | All Features | All Features |
+| **Date & Time** | Local, Relative, Timezone | **+ Week Number, Day of Year** |
 | **Number Tools** | All Features | All Features |
 | **URI & Base64** | All Features | All Features |
 
